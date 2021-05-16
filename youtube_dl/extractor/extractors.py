@@ -395,6 +395,7 @@ from .foxnews import (
     FoxNewsIE,
     FoxNewsArticleIE,
 )
+from .sendfox import SendFoxIE
 from .foxsports import FoxSportsIE
 from .franceculture import FranceCultureIE
 from .franceinter import FranceInterIE
